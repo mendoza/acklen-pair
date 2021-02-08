@@ -1,0 +1,8 @@
+tasks:
+  - init: npm install && npm install -g eslint
+    command: npm run dev
+image:
+  file: .gitpod.Dockerfile
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint@2.1.8:02aHhbJ0Q4aGdjHXlTdVKg==

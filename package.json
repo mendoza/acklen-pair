@@ -1,0 +1,26 @@
+{
+  "name": "acklen-pair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendoza/acklen-pair.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mendoza/acklen-pair/issues"
+  },
+  "homepage": "https://github.com/mendoza/acklen-pair#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "jest": "^26.6.3"
+  }
+}
